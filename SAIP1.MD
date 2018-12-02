@@ -1,7 +1,7 @@
 SAIP1 - Collective Code Construction Contract (C4)
 -------------------------------------
 
-The Collective Code Construction Contract (C4) is an evolution of the github.com [Fork + Pull Model](https://help.github.com/articles/about-pull-requests/), aimed at providing an optimal collaboration model for free software projects. This is revision 2 of the C4 specification and deprecates RFC 22.
+The Collective Code Construction Contract (C4) is an evolution of the github.com [Fork + Pull Model](https://help.github.com/articles/about-pull-requests/), aimed at providing an optimal collaboration model for free software projects. This is intended to deprecate all other unmaintained sources of the C4 protocol.
 
 License
 -------
